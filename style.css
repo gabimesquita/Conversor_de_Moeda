@@ -1,0 +1,31 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    font-size: 25px;
+    min-height: 400px;
+    background-color: #0b3611b0;
+    background-size: 100vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 20px;
+  }
+  
+  .logo {
+    margin-top: 50px;
+    width: 600px;
+  }  
+  
