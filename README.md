@@ -19,3 +19,7 @@
 <p>3.Clique em OK.</p>
  
 <p>4.A janela irá te retornar o valor convertido em Real (R$).</p>
+
+<h2>Licença</h2>
+
+<p>MIT (Massachusetts Institute of Technology)</p>
